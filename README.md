@@ -1,2 +1,3 @@
 # CTF-scripts
-A rooting script by a kiddo :)
+A script that can be used in CTFs 
+
